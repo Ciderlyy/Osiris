@@ -3,7 +3,7 @@
 <h2>Issues and Pull Requests</h2>
 <p>If you encounter any issues while using Osiris DLL, please feel free to send pull requests or raise any issues you have in the issue tracker.</p>
 <h2>Attention</h2>
-<p>The stability of this software also depends on the injector you use. Personally, we recommend using ExtremeInjector. You can download it <a href="http://example.com">here</a>.</p>
+<p>The stability of this software also depends on the injector you use. Personally, we recommend using ExtremeInjector. You can download it <a href="https://github.com/master131/ExtremeInjector">here</a>.</p>
 <h2>How to Use</h2>
 <ol>
 <li>Select the Osiris DLL and inject it into the game using the injector of your choice.</li>
