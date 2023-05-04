@@ -1,6 +1,5 @@
 # Osiris
-<h1>Osiris DLL</h1>
-<p>Thank you for using Osiris DLL! This is a cheat software designed for use in video games.</p>
+<p>Thank you for using Osiris DLL! This is a cheat software designed for use CSGO.</p>
 <h2>Issues and Pull Requests</h2>
 <p>If you encounter any issues while using Osiris DLL, please feel free to send pull requests or raise any issues you have in the issue tracker.</p>
 <h2>Attention</h2>
